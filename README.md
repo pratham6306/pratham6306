@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Pratham Gupta 👋<br>A passionate Computer Science student exploring Data Structures, Algorithms, Machine Learning, and Software Development.<br>I enjoy solving problems, building projects, and continuously learning new technologies.
+Hi, I'm Pratham Gupta 👋<br>A passionate Computer Science student exploring Data Structures, Algorithms, Machine Learning, and Software Development.<br>I enjoy solving problems, building projects, and learning new technologies.
 
 
 ## 🌐 Socials:
@@ -15,7 +15,7 @@ Hi, I'm Pratham Gupta 👋<br>A passionate Computer Science student exploring Da
 ---
 [![](https://visitcount.itsvg.in/api?id=pratham6306&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->## Hi there 👋
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!--
 **pratham6306/pratham6306** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
